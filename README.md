@@ -38,7 +38,7 @@ Below a list of the different files that are part of the project. For the first 
    * __def test_countdown():__ _Function tests if "None" is returned_
 
 ### __requirements.txt__
-Package         Version
+```Package         Version
 -------         -------
 colorama        0.4.4
 cowsay          6.1
@@ -46,7 +46,7 @@ mypy            1.7.0
 pandas          2.1.3
 pytest          7.4.3
 pytube          15.0.0
-
+```
 ## Project style
 PEP 8 and PEP 257 (Docstring Conventions) provide code conventions. This can be deviated from if there is good reason for doing so. The most important thing is monitoring consistency within a project and a module. The aim at Wad's Up has been to write readable and consistent code that follows the conventions laid down in PEP 8 and PEP 257. To check this, the following programs were used::
 - Black: [https://black.readthedocs.io/en/stable/]
