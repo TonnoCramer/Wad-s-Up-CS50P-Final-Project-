@@ -38,7 +38,8 @@ Below a list of the different files that are part of the project. For the first 
    * __def test_countdown():__ _Function tests if "None" is returned_
 
 ### __requirements.txt__
-```Package         Version
+```
+Package         Version
 -------         -------
 colorama        0.4.4
 cowsay          6.1
