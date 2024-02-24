@@ -307,7 +307,7 @@ def youtube(island_url):
         case "Vlieland":
             video_url = "https://www.youtube.com/watch?v=v6wjltI4UYo"
         case _:
-            sys.exit("This is not a Dutc Wadden Island")
+            sys.exit("This is not a Dutch Wadden Island")
 
     # Create a YouTube object
     yt = YouTube(video_url)
